@@ -36,8 +36,6 @@ Oppgave ...
 Oppgave n
 
 
-
-
 ## Nyttige lenker
 
 Overleaf: https://www.overleaf.com
@@ -59,6 +57,9 @@ LaTeX-Tabellgenerator (ofte mer effektivt enn KI): https://www.tablesgenerator.c
 
 KI-drevne verktøy som Claude og ChatGPT kan være til stor hjelp med LaTeX-kode, men bør alltid brukes i samsvar med emnets-, institusjonens-, eller bedriftens egne retningslinjer for KI-bruk. Bruk sunn fornuft.
 
+## Bidra
+
+[Åpne gjerne et issue](https://github.com/magnusgrande/LaTeX-intro/issues/new) hvis du har forslag til endringer, forbedringer, eller annet å komme med :)
 
 ## Credits
 
