@@ -1,7 +1,7 @@
 # Intro til LaTeX og Overleaf
 Disse oppgavene gir en kjapp innføring i det å skrive dokumenter ved hjelp av **LaTeX** og **Overleaf** for ingeniørstudenter.
 
-Denne introen er [skrevet av](https://github.com/magnusgrande/LaTeX-intro/graphs/contributors) og for studenter på dataingeniørlinja ved NTNU i Ålesund, men kan til fordel brukes av alle som er interesserte i å komme i gang med LaTeX og Overleaf, og anbefales særlig de som skal forfatte tekniske eller vitenskapelige dokumenter, enten det er som del av studiet eller ute i arbeidslivet.
+Denne introen er [skrevet av](https://github.com/magnusgrande/LaTeX-intro/graphs/contributors) og for studenter på dataingeniørlinja ved NTNU i Ålesund, men kan til fordel brukes av alle som er interesserte i å komme i gang med LaTeX og Overleaf.
 
 ## Presentasjon
 
