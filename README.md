@@ -20,21 +20,19 @@ Med oppgavesettet følger en kort presentasjon om LaTeX:
 ✨
 
 ## Oppgaver
-Noen korte oppgaver for å sette deg litt bedre inn i hvordan alt dette henger sammen, og hvordan du selv kan begynne å ta i bruk Overleaf. 
+Dette repositoriet har noen korte oppgaver som er skrevet for å gi deg en kjapp intro til de ulike mulighetene du har med LaTeX og Overleaf.
 
-Vi anbefaler å starte med Intro til Overleaf for å sette opp premium brukerkonto (gratis for studenter!) 
+Vi anbefaler å starte med `Intro til Overleaf` for en innføring i brukergrensesnittet før du hiver deg over resten av oppgavene :)
 
-#### Lenker:
-Intro til Overleaf (bruker, premium, dokumentmaler, laste opp mal, brukergrensesnitt (invitere med lenke i stedet for e-post osv.?) ) 
+- [Intro til Overleaf](intro-til-overleaf/README.md)
 
-Oppgave 1
+- [Oppgave 1](oppgave-1/README.md)
 
-Oppgave 2
+- [Oppgave 2](oppgave-2/README.md)
 
-Oppgave ...
+- [Oppgave 3](oppgave-3/README.md)
 
-Oppgave n
-
+- [Oppgave 4](oppgave-4/README.md)
 
 ## Nyttige lenker
 
@@ -63,5 +61,5 @@ KI-drevne verktøy som Claude og ChatGPT kan være til stor hjelp med LaTeX-kode
 
 ## Credits
 
-Strukturen på repo'et og oppgavene ble tjuvlånt fra [Ålesund Techschool](https://github.com/aalesund-techschool)
+Strukturen på repositoriet og oppgavene ble tjuvlånt fra [Ålesund Techschool](https://github.com/aalesund-techschool)
 
