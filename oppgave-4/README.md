@@ -1,17 +1,5 @@
-# 4. Kodesnutt
+# 4. Ekstra
 
-#### Dokumentasjon:
+Mye av det som gjør Overleaf/LaTeX gøy er fleksibiliteten og mulighetene. De tidligere oppgavene har introdusert det mest grunnleggende, men en kan selv definere environments for ting en vil gjenbruke (eksempelvis om du vil ha en spesiell måte å presentere oppgavetekst på), eller definere tydeligere kodesnutter i eksempelvis java og python. Veien videre er selvdefinert, vær nysgjerrig og undersøk hvilke muligheter som finnes. Under kommer noen punkter vi har hatt stort utbytte av:
 
-Overleaf Docs: https://www.overleaf.com/learn/latex/Code_Highlighting_with_minted
-
-## \usepackage{minted}, my beloved
-Dersom du skal presentere en kodesnutt kan du bruke pakken minted for å vise kode direkte inne i dokumentet. Da slipper du å tenke på bilder, bakgrunnsfarge, og alt annet. Minted gir koden syntax-highlighting etter hvilket språk du setter den til.  
-
-❗Pass på at dokumentet ditt har med `\usepackage{minted}` der du importerer pakker.
-
-
-### (🐍/☕) 4.1: Hei Verden
-Utforsk selv hvordan du kan bruke minted til å presentere en kodesnutt (vi foreslår Hello World) i et LaTeX-dokument, og referere tilbake til denne senere i dokumentet.
-
-
-
+*subfigures, forest, modifiers (for figurer), minipage og selvdefinerte environments.*
