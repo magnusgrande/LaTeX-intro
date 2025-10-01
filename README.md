@@ -5,11 +5,15 @@ LaTeX er overraskende overkommelig, særlig hvis du har litt erfaring med progra
 
 Denne introen er [skrevet av](https://github.com/magnusgrande/LaTeX-intro/graphs/contributors) og for studenter på dataingeniørlinja ved NTNU i Ålesund, men kan til fordel brukes av alle som er interesserte i å komme i gang med LaTeX og Overleaf.
 
+---
+
 ## Presentasjon
 
 Med oppgavesettet følger en kort presentasjon om LaTeX:
 
 [[View Slides]]
+
+---
 
 ## Begrepsforklaring
 
@@ -20,6 +24,8 @@ Med oppgavesettet følger en kort presentasjon om LaTeX:
 ✨
 *Studenter ved NTNU (og sikkert også andre tilsvarende institusjoner) får Premiumversjonen av Overleaf gratis ved å legge til student-e-posten sin på brukersiden sin.*
 ✨
+
+---
 
 ## Oppgaver
 Dette repositoriet har noen korte oppgaver som er skrevet for å gi deg en kjapp intro til de ulike mulighetene du har med LaTeX og Overleaf.
@@ -36,6 +42,8 @@ Vi anbefaler å starte med `Intro til Overleaf` for en innføring i brukergrense
 
 - [Oppgave 4](oppgave-4/README.md)
 
+---
+
 ## Nyttige lenker
 
 Overleaf: https://www.overleaf.com
@@ -46,6 +54,8 @@ NTNU sine maler for Overleaf-prosjekter: https://www.overleaf.com/edu/ntnu#templ
 
 #### Guider:
 
+Overleaf Dokumentasjon: https://www.overleaf.com/learn
+
 NTNU sin intro til LaTeX (wikiside): https://i.ntnu.no/wiki/-/wiki/Norsk/latex+-+installasjon+og+introduksjon
 
 UiO sin 'LaTeX for nybegynnere'-guide: https://www.mn.uio.no/ifi/tjenester/it/hjelp/latex/latex-for-nybegynnere.pdf
@@ -53,13 +63,17 @@ UiO sin 'LaTeX for nybegynnere'-guide: https://www.mn.uio.no/ifi/tjenester/it/hj
 
 #### Verktøy:
 
-LaTeX-Tabellgenerator (ofte mer effektivt enn KI): https://www.tablesgenerator.com/#
+LaTeX-tabellgenerator (ofte den mest effektive måten å lage tabeller på): https://www.tablesgenerator.com/#
 
 KI-drevne verktøy som Claude og ChatGPT kan være til stor hjelp med LaTeX-kode, men bør alltid brukes i samsvar med emnets-, institusjonens-, eller bedriftens egne retningslinjer for KI-bruk. Bruk sunn fornuft.
 
-## Bidra
+---
+
+## Lyst til å bidra?
 
 [Åpne gjerne et issue](https://github.com/magnusgrande/LaTeX-intro/issues/new) hvis du har forslag til endringer, forbedringer, eller annet å komme med :)
+
+---
 
 ## Credits
 
