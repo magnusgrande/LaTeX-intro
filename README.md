@@ -7,14 +7,6 @@ Denne introen er [skrevet av](https://github.com/magnusgrande/LaTeX-intro/graphs
 
 ---
 
-## Presentasjon
-
-Med oppgavesettet følger en kort presentasjon om LaTeX:
-
-[[View Slides]]
-
----
-
 ## Begrepsforklaring
 
 **LaTeX** (uttalt «Lah-tech» eller «Lay-tech») er et gratis typesettingssystem designet for bruk i produksjon av teknisk og vitenskapelig dokumentasjon. LaTeX baserer seg på typesettingsspråket TeX, og ligner mer på programmering enn man vil være vant til fra programmer som Microsoft Word eller Google Docs.
