@@ -1,6 +1,6 @@
 # Oppgave 1: Lister og Punktlister
 
-Dokumentasjon:
+#### Dokumentasjon:
 
 Overleaf Docs: https://www.overleaf.com/learn/latex/Lists
 
@@ -39,6 +39,7 @@ og vi bruker `\begin{enumerate}` for nummererte lister
 ### 🌳1.3: Prøv deg selv: Kombinerte lister
 
 ✏️ Lag en liste med tre forskjellige rapporttyper (Labrapport, prosjektrapport og bacheloroppgave, eller velg selv). Før opp kjennetegn på de ulike rapportene.
+
 
 
 
