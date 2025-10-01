@@ -1,5 +1,9 @@
 # Oppgave 1: Lister og Punktlister
 
+Dokumentasjon:
+
+Overleaf Docs: https://www.overleaf.com/learn/latex/Lists
+
 ## 1.1 Kommandoene *itemize* og *enumerate*
 
 Oppgave 1 vil handle om hvordan man setter opp punktlister i Overleaf. Dette er gjort primært gjennom to forskjellige kommandoer: vi bruker `\begin{itemize}` om vi ønsker lage en punktliste:
@@ -35,5 +39,6 @@ og vi bruker `\begin{enumerate}` for nummererte lister
 ### 🌳1.3: Prøv deg selv: Kombinerte lister
 
 ✏️ Lag en liste med tre forskjellige rapporttyper (Labrapport, prosjektrapport og bacheloroppgave, eller velg selv). Før opp kjennetegn på de ulike rapportene.
+
 
 
