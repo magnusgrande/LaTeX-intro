@@ -1,4 +1,4 @@
-# 3. Kodesnutt
+# 3. Kodeblokker
 
 #### Dokumentasjon:
 
@@ -14,5 +14,7 @@ Dersom du skal presentere en kodesnutt kan du bruke pakken minted for å vise ko
 Utforsk selv hvordan du kan bruke minted til å presentere en kodesnutt (vi foreslår Hello World) i et LaTeX-dokument, og referere tilbake til denne senere i dokumentet.
 
 
+[➡️Gå til neste oppgave
+](https://github.com/magnusgrande/LaTeX-intro/blob/main/oppgave-4/README.md)
 
 
