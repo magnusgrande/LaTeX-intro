@@ -17,6 +17,8 @@
 Legger du inn student-e-posten din her får du Overleaf Premium så lenge du er student. 
 Du trenger ikke å sende inn studentbevis, Overleaf trenger bare å bekrefte e-posten din.
 
+❗NTNU: Husk å bruke @stud.ntnu.no når du bruker e-posten din utenfor NTNU sine systemer.
+
 5. Gå til Subscriptions i menyen oppe til høyre for å bekrefte at brukeren din har blitt oppgradert til Premium 🎊
 
 ❗Hvis du ikke blir oppgradert til Premium kan det hende du må ta kontakt med din institusjon. 
@@ -81,3 +83,4 @@ Skru den heller på når du skal ta en større språkvask før du leverer.
 
 [➡️ Gå til Oppgave 1
 ](https://github.com/magnusgrande/LaTeX-intro/blob/main/oppgave-1/README.md)
+
