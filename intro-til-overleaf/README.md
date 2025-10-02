@@ -77,3 +77,7 @@ Skru den heller på når du skal ta en større språkvask før du leverer.
 - Vurder å synkronisere opp i mot GitHub eller Dropbox for å ha en ekstern backupløsning dersom Overleaf plutselig har trøbbel.
 
 - Uavhengig av punktet over, ta regelmessige backups av prosjektet gjennom Overleaf-menyen oppe til venstre.
+
+
+[➡️ Gå til Oppgave 1
+](https://github.com/magnusgrande/LaTeX-intro/blob/main/oppgave-1/README.md)
