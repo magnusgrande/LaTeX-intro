@@ -42,5 +42,6 @@ og vi bruker `\begin{enumerate}` for nummererte lister
 
 
 
-
+[➡️ Gå til Oppgave 2
+](https://github.com/magnusgrande/LaTeX-intro/blob/main/oppgave-2/README.md)
 
