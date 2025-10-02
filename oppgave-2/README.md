@@ -66,10 +66,19 @@ $S_n = \frac{n(a_1+a_n)}{2}$
 
 ### 🌲2.4: Align
 
-Bruk align til å løse matematisk følgende i Overleaf.
+Bruk align til å løse følgende ligninger i Overleaf. Vis mellomregninger!
 
 #### Oppgave 1: 
 $y = 2x+3$, løs for $x$
+
+#### Oppgave 2:
+$12y - 2x = 4x - 6y$, løs for $x$
+
+#### Bonusoppgave:
+
+Bruk KI til å generere kode for å plotte $y = x^{2} +2x -3$ inne i et dokument. (Eller prøv deg frem selv!)
+
+Hint: https://www.overleaf.com/learn/latex/Pgfplots_package
 
 
 ### 🔥2.5: Kombinasjon
@@ -81,4 +90,6 @@ $I = \frac{V}{R}$
 Dersom $V(t) = V_0sin(ωt)$, får vi:
 $I(t) = \frac{V_0sin(ωt)}{R}$
 
+
+[➡️Gå til neste Oppgave](https://github.com/magnusgrande/LaTeX-intro/blob/main/oppgave-3/README.md)
 
